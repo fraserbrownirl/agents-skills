@@ -1,0 +1,7 @@
+{
+  "name": "POD Miner Qwen3",
+  "description": "Call POD Miner's Qwen3-Coder for free with your ClawPump agent id, or pay for the same model on UsePod.",
+  "author": "fraserbrownirl",
+  "tags": ["utility", "inference", "coding"],
+  "version": "1.1.0"
+}
